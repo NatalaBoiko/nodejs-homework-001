@@ -1,3 +1,6 @@
-const date = new Date();
-console.log(date.getFullYear());
-console.log("Hello World! Welcome :)");
+const fs = require("fs/promises");
+const filepath = "./contacts";
+console.log(filepath);
+
+console.log(__dirname);
+console.log(__filename);

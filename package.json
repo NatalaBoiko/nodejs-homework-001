@@ -21,5 +21,8 @@
   "homepage": "https://github.com/NatalaBoiko/nodejs-homework-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
   }
 }
