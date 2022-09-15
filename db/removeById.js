@@ -4,7 +4,8 @@ const listContacts = require("./listContacts");
 
 const removeById = async (id) => {
   const contacts = await listContacts();
-  const idx = contacts.findIndex((contact) => contact.id === id);
+  const contaktId = String(id);
+  const idx = contacts.findIndex((contact) => contact.id === contaktId);
   if (idx === -1) {
     return null;
   }
