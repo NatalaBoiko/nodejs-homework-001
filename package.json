@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-homework-01",
+  "name": "nodejs-homework-001",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NatalaBoiko/nodejs-homework-01.git"
+    "url": "git+https://github.com/NatalaBoiko/nodejs-homework-001.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NatalaBoiko/nodejs-homework-01/issues"
+    "url": "https://github.com/NatalaBoiko/nodejs-homework-001/issues"
   },
-  "homepage": "https://github.com/NatalaBoiko/nodejs-homework-01#readme",
+  "homepage": "https://github.com/NatalaBoiko/nodejs-homework-001#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
   },
